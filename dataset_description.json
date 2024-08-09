@@ -1,0 +1,10 @@
+{
+    "Name": "EEG frequency tagging reveals the integration of dissimilar observed actions",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": ["Silvia Formica",
+                "Anna Chaiken",
+                "Jan R. Wiersema",
+                "Emiel Cracco"
+    ]
+}
